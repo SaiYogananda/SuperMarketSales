@@ -18,7 +18,7 @@ PIL
 ## Run the app
 ```Powershell
 # vanilla terminal
-streamlit run market.py
+streamlit run supermarket.py
 
 # quit
 ctrl-c
